@@ -1,1 +1,2 @@
-let a = 'aaaa'
+let a = 'aaaa';
+let b = 'bbbb';
